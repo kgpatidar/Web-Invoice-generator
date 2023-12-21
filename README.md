@@ -11,9 +11,6 @@ or visit https://swipe-invoice-assignment.netlify.app/
 
 - [How to Set Up and Run the Project](#how-to-set-up-and-run-the-project)
 - [Features](#features)
-- [To-Do](#to-do)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## How to Set Up and Run the Project
 
