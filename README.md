@@ -1,36 +1,56 @@
-# Invoice Generator - React App
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# Swipe Invoice Generator
 
-An Invoice creator project built with React. Add itemized items, configure quantity, prices, tax rates and discounts. Download Invoice as PDFs to your device. Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to capture the data from the modal and covert it from canvas -> pdf.
+Swipe Invoice Generator is a React and Redux-based project designed for creating, editing, and managing invoices. Bootstrap is utilized for enhanced styling.
 
-### Live Demo
-https://invoice-generator-react.netlify.app/
+## Live Demo
 
-### Screenshots
-<img src="https://i.imgur.com/wRetnxk.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/AZChaei.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/Bz3K3DE.png" style="max-width: 100px; width: 100%; height: auto;">
+Visit the live demo [here](https://swipe-invoice-assignment.netlify.app/).
 
-### Installation
+## Table of Contents
 
-```
-git clone https://github.com/johnuberbacher/invoice-generator
+- [How to Set Up and Run the Project](#how-to-set-up-and-run-the-project)
+- [Features](#features)
+- [To-Do](#to-do)
+- [Contributing](#contributing)
+- [License](#license)
 
-npm install
+## How to Set Up and Run the Project
 
-npm start / npm run build
-```
+1. Clone the repository:
 
-### To-Do
-- [x] Finish parsing data into Preview Modal
+   ```bash
+   git clone https://github.com/kgpatidar/swipe-invoice-generator
 
-- [x] Currency Picker
+   ```
 
-- [x] Calculate Tax and Discounts
+2. Install dependencies:
 
-- [ ] Store invoices in Firebase DB
+   ```bash
+   npm install
 
+   ```
 
-### Meta
+3. Run Project:
+   ```bash
+   npm start
+   ```
 
-John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
+## Features
+
+### 1. Create New Invoices
+
+- Users can easily create new invoices using the intuitive interface.
+
+### 2. Delete Invoices
+
+- Remove unnecessary invoices effortlessly to maintain a clean record.
+
+### 3. Edit or Copy Invoices
+
+- Easily edit existing invoices or create copies for quick invoicing.
+
+### 4. Preview and Download Invoices
+
+- Users can preview invoices before finalizing and download them for record-keeping.
+
+Feel free to explore and utilize these features to streamline your invoice management process!
