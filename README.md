@@ -5,6 +5,7 @@ Swipe Invoice Generator is a React and Redux-based project designed for creating
 ## Live Demo
 
 Visit the live demo [here](https://swipe-invoice-assignment.netlify.app/).
+or visit https://swipe-invoice-assignment.netlify.app/
 
 ## Table of Contents
 
